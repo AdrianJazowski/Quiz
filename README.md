@@ -42,3 +42,5 @@ Last you need to run the project by command:
 ### npm start
 
 Brwoser will automatically open on eg. localhost:3000
+
+the project was created as part of learning based on the tutorial: https://www.youtube.com/watch?v=F2JCjVSZlG0&ab_channel=freeCodeCamp.org
